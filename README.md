@@ -5,6 +5,9 @@ This lesson will build off of the lesson on Django models and migrations and
 wrap up everything we need to build basic applications with Django. Today, we
 are going to look at how to actually display our data using views and templates!
 
+
+Note: You will need to remove and change a lot of the code used in your Serializers lesson, so if you are working on this, change to a new branch so you do not lose that code!
+
 ## Prerequisites
 
 - Python
